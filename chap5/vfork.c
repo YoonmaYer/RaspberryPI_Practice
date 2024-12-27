@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
+#include <sys/types.h>
 
 static int g_var = 1;
 char str[] = "PID";
